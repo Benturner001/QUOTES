@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### By Benturner001
 
 ## Description
@@ -64,3 +65,20 @@ You can contact me at Bensonnjihia42@gmail.com
 Copyright (c) 2020 **Benturner001**
 # QUOTES
 # QUOTES
+=======
+### By Benturner001 for more info
+
+## Description for the IP
+This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
+
+## User Requirements
+The applications allows users to do the following:
+
++ Create a new quote.
++ Upvote or downvote a quote.
++ Delete a quote
++ See the number of upvotes and number of downvotes for each quote.
+
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+>>>>>>> 6fbfab6213e70fb952fc24b11d7c4843eb35c4ca
